@@ -6,11 +6,12 @@ prevents `SpringBoard` from presenting the `UIAlertView` that asks you to
 disable airplane mode when launching apps.
 
 ## Install
-To install a pre-made binary of this tweak, add the repository
-`https://clayfreeman.com/apt` and install the `Air Traffic Control` package.
+To install a pre-made binary of this tweak, add the repository URL
+`https://clayfreeman.com/apt/` to Cydia and install the `Air Traffic Control`
+package.
 
 ## Build
-To build this extension, make sure you have `theos` setup as per the
+To build this extension manually, make sure you have `theos` setup as per the
 instructions at [this](http://iphonedevwiki.net/index.php/Theos/Setup) link.
 After `theos` is fully functional, simply type `make package` in the project
 root.

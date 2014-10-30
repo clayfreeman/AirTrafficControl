@@ -7,7 +7,7 @@ disable airplane mode when launching apps.
 
 ## Install
 To install a pre-made binary of this tweak, add the repository
-`https://clayfreeman.com/apt` and install the "Air Traffic Control" package.
+`https://clayfreeman.com/apt` and install the `Air Traffic Control` package.
 
 ## Build
 To build this extension, make sure you have `theos` setup as per the

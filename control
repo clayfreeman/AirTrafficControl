@@ -3,7 +3,7 @@ Name: Air Traffic Control
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7)
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Disables Airplane Mode alerts when launching applications.  Source code is located at https://github.com/ClayFreeman/AirTrafficControl
+Description: Disables Airplane Mode alerts when launching applications.  Source code is located at https://github.com/ClayFreeman /AirTrafficControl
 Maintainer: Clay Freeman <airtrafficcontrol@clayfreeman.com>
 Author: Clay Freeman <airtrafficcontrol@clayfreeman.com>
 Section: Tweaks

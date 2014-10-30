@@ -7,3 +7,4 @@ Description: Disables Airplane Mode alerts when launching applications.
 Maintainer: Clay Freeman <airtrafficcontrol@clayfreeman.com>
 Author: Clay Freeman <airtrafficcontrol@clayfreeman.com>
 Section: Tweaks
+Icon: file:///Library/MobileSubstrate/DynamicLibraries/AirTrafficControl.png

@@ -7,6 +7,10 @@ export ARCHS = armv7 armv7s arm64
 TWEAK_NAME = AirTrafficControl
 AirTrafficControl_FILES = Tweak.xm
 
+internal-stage::
+	mkdir -p $(THEOS_STAGING_DIR)/Library/MobileSubstrate/DynamicLibraries
+	cp -r AirTrafficControl.png $(THEOS_STAGING_DIR)/Library/MobileSubstrate/DynamicLibraries
+
 include $(THEOS_MAKE_PATH)/tweak.mk
 
 after-install::

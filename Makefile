@@ -1,4 +1,4 @@
-TARGET = iphone:clang::7.0
+TARGET = iphone:clang::6.1
 
 include theos/makefiles/common.mk
 

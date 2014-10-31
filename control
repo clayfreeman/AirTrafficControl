@@ -1,9 +1,20 @@
 Package: com.clayfreeman.airtrafficcontrol
 Name: Air Traffic Control
-Depends: mobilesubstrate, preferenceloader, firmware (>= 7)
-Version: 1.0
+Depends: mobilesubstrate, firmware (>= 6.1)
+Version: 1.1
 Architecture: iphoneos-arm
-Description: Disables Airplane Mode alerts when launching applications.  Source code is located at https://github.com/ClayFreeman /AirTrafficControl
+Description: Disables Airplane Mode alerts when launching applications.
+ This tweak disables the annoying Airplane Mode alerts when launching applications.
+ .
+ Change Log:
+ .
+ Version 1.1
+ Added support for devices able to run iOS 6.1 (this excludes the iPhone 2G, iPhone 3G, and iPod touch 1G/2G).
+ .
+ Version 1.0
+ Initial release.
+ .
+ Source code is located at https://github.com/ClayFreeman /AirTrafficControl
 Maintainer: Clay Freeman <airtrafficcontrol@clayfreeman.com>
 Author: Clay Freeman <airtrafficcontrol@clayfreeman.com>
 Section: Tweaks

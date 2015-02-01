@@ -22,3 +22,11 @@ The core functionality of this tweak was borrowed from
 tweak's creation, the aforementioned repository crashed `SpringBoard` on iOS 8.
 I needed only the Airplane Mode functionality of the tweak, therefore, Air
 Traffic Control was born.
+
+Licensing
+=========
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative
+Commons, PO Box 1866, Mountain View, CA 94042, USA.
